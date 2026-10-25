@@ -227,11 +227,10 @@ PushSubscription
 
 ---
 
-## 👩‍💻 Project Team & Credits
+## 👩‍💻 Author & Maintainer
 
-- **Team member:** Ashika U P
-- **Original project author:** Manya G Karle
+**Ashika U P**
 
-This repository is [Ashika's fork](https://github.com/ashikaup16/medication-reminder) of the original [manyagkarle13/medication-reminder](https://github.com/manyagkarle13/medication-reminder) project. The original repository and commit history are preserved.
+This is my fork of the original [Medication Reminder App](https://github.com/manyagkarle13/medication-reminder), created by Manya G Karle. The original repository and commit history are preserved.
 
 ---
