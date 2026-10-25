@@ -231,6 +231,6 @@ PushSubscription
 
 **Ashika U P**
 
-This is my fork of the original [Medication Reminder App](https://github.com/manyagkarle13/medication-reminder), created by Manya G Karle. The original repository and commit history are preserved.
+This is my fork of the original [Medication Reminder App](https://github.com/manyagkarle13/medication-reminder). The original repository and commit history are preserved.
 
 ---
